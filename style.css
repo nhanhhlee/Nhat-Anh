@@ -22,11 +22,11 @@ h1 {
 }
 .header{
   flex: 15%;
-  background-color:lightgray;
+  background-color:lightpink;
 }
 .menu{
   flex: 5%;
-  background-color:darkgray;
+  background-color:hotpink;
 }
 .content{
   flex: 70%;
@@ -38,6 +38,6 @@ h1 {
 }
 .footer{
   flex: 10%;
-  background-color:lightgray;
+  background-color:lightpink;
 }
 
