@@ -27,6 +27,16 @@ h1 {
 .menu{
   flex: 5%;
   background-color:pink;
+  display: flex;
+  align-items: center;
+}
+.menu a{
+  padding: 15px 20px;
+  color: blue;
+}
+.menu hover{
+  background-color: lightpink;
+  color: black;
 }
 .content{
   flex: 70%;
