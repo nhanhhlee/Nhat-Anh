@@ -37,7 +37,7 @@ h1 {
   color: blue;
 }
 .menu a:hover{
-  background-color: red;
+  background-color: lightpink;
   color: black;
 }
 .content{
